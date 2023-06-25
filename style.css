@@ -64,7 +64,7 @@ body {
 
 .card .background img {
   width: 95%;
-  opacity: 0.04;
+  opacity: .09;
 }
 
 .card .header img {
@@ -112,5 +112,5 @@ body {
 }
 
 .card .footer img {
-    height: 30px;
+  height: 30px;
 }
